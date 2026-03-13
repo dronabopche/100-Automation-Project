@@ -1,1 +1,3 @@
-# 100-Automation-Project
+# 100-automation-projects
+
+Collection of 100 practical projects.
