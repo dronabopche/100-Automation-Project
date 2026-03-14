@@ -1,0 +1,8 @@
+# Environment Variables for: Interview Prep Auto-Scheduler
+
+ANTHROPIC_API_KEY=your_key_here
+N8N_WEBHOOK_URL=http://localhost:5678
+CLAUDE_MCP_KEY=your_key_here
+GOOGLE_CALENDAR_MCP_KEY=your_key_here
+NOTION_MCP_KEY=your_key_here
+PERPLEXITY_API_KEY=your_key_here

@@ -1,0 +1,8 @@
+# Environment Variables for: Webinar Attendee Follow-Up Automation
+
+ANTHROPIC_API_KEY=your_key_here
+N8N_WEBHOOK_URL=http://localhost:5678
+ZOOM_MCP_KEY=your_key_here
+CLAUDE_MCP_KEY=your_key_here
+MAILCHIMP_MCP_KEY=your_key_here
+HUBSPOT_MCP_KEY=your_key_here

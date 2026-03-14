@@ -1,0 +1,9 @@
+# Environment Variables for: NPS Survey Distribution & Analysis
+
+ANTHROPIC_API_KEY=your_key_here
+N8N_WEBHOOK_URL=http://localhost:5678
+TYPEFORM_MCP_KEY=your_key_here
+CLAUDE_MCP_KEY=your_key_here
+MAILCHIMP_MCP_KEY=your_key_here
+HUBSPOT_MCP_KEY=your_key_here
+GOOGLE_SHEETS_MCP_KEY=your_key_here

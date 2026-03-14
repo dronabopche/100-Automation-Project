@@ -1,0 +1,8 @@
+# Environment Variables for: Developer Onboarding Automation Bot
+
+ANTHROPIC_API_KEY=your_key_here
+N8N_WEBHOOK_URL=http://localhost:5678
+SLACK_MCP_KEY=your_key_here
+CLAUDE_MCP_KEY=your_key_here
+GITHUB_MCP_KEY=your_key_here
+NOTION_MCP_KEY=your_key_here

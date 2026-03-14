@@ -1,0 +1,9 @@
+# Environment Variables for: Personalized Newsletter Builder Platform
+
+ANTHROPIC_API_KEY=your_key_here
+N8N_WEBHOOK_URL=http://localhost:5678
+TYPEFORM_MCP_KEY=your_key_here
+CLAUDE_MCP_KEY=your_key_here
+MAILCHIMP_MCP_KEY=your_key_here
+AIRTABLE_MCP_KEY=your_key_here
+RSS_MCP_KEY=your_key_here

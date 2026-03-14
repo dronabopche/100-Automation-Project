@@ -1,0 +1,9 @@
+# Environment Variables for: App Store Review Mining for Product Insights
+
+ANTHROPIC_API_KEY=your_key_here
+N8N_WEBHOOK_URL=http://localhost:5678
+APP_STORE_API_KEY=your_key_here
+CLAUDE_MCP_KEY=your_key_here
+LINEAR_MCP_KEY=your_key_here
+NOTION_MCP_KEY=your_key_here
+SLACK_MCP_KEY=your_key_here

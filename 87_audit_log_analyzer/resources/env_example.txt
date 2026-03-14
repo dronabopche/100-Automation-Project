@@ -1,0 +1,8 @@
+# Environment Variables for: Cloud Audit Log Anomaly Analyzer
+
+ANTHROPIC_API_KEY=your_key_here
+N8N_WEBHOOK_URL=http://localhost:5678
+AWS_CLOUDTRAIL_API_KEY=your_key_here
+CLAUDE_MCP_KEY=your_key_here
+SLACK_MCP_KEY=your_key_here
+PAGERDUTY_API_KEY=your_key_here

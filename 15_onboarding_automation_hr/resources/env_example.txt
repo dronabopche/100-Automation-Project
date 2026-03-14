@@ -1,0 +1,9 @@
+# Environment Variables for: Employee Onboarding Automation
+
+ANTHROPIC_API_KEY=your_key_here
+N8N_WEBHOOK_URL=http://localhost:5678
+GOOGLE_ADMIN_MCP_KEY=your_key_here
+SLACK_MCP_KEY=your_key_here
+NOTION_MCP_KEY=your_key_here
+GMAIL_MCP_KEY=your_key_here
+GOOGLE_CALENDAR_MCP_KEY=your_key_here

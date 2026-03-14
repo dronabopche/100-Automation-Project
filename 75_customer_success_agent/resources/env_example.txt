@@ -1,0 +1,9 @@
+# Environment Variables for: Proactive Customer Success AI Agent
+
+ANTHROPIC_API_KEY=your_key_here
+N8N_WEBHOOK_URL=http://localhost:5678
+CLAUDE_MCP_KEY=your_key_here
+HUBSPOT_MCP_KEY=your_key_here
+GMAIL_MCP_KEY=your_key_here
+MIXPANEL_API_KEY=your_key_here
+SLACK_MCP_KEY=your_key_here

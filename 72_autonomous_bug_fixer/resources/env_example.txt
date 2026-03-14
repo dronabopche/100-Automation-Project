@@ -1,0 +1,9 @@
+# Environment Variables for: Autonomous Bug Detection & Fix Agent
+
+ANTHROPIC_API_KEY=your_key_here
+N8N_WEBHOOK_URL=http://localhost:5678
+SENTRY_MCP_KEY=your_key_here
+GITHUB_MCP_KEY=your_key_here
+CLAUDE_MCP_KEY=your_key_here
+SLACK_MCP_KEY=your_key_here
+JIRA_MCP_KEY=your_key_here

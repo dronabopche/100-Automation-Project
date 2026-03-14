@@ -1,0 +1,14 @@
+{
+  "mcpServers": {
+    "project": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "@anthropic-ai/mcp-server"
+      ],
+      "env": {
+        "ANTHROPIC_API_KEY": "${ANTHROPIC_API_KEY}"
+      }
+    }
+  }
+}

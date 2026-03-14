@@ -1,0 +1,8 @@
+# Environment Variables for: Multi-Agent Content Production Team
+
+ANTHROPIC_API_KEY=your_key_here
+N8N_WEBHOOK_URL=http://localhost:5678
+CLAUDE_MCP_KEY=your_key_here
+FIRECRAWL_MCP_KEY=your_key_here
+WORDPRESS_MCP_KEY=your_key_here
+GOOGLE_SHEETS_MCP_KEY=your_key_here

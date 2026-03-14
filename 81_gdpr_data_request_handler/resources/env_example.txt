@@ -1,0 +1,8 @@
+# Environment Variables for: GDPR Data Request Automation
+
+ANTHROPIC_API_KEY=your_key_here
+N8N_WEBHOOK_URL=http://localhost:5678
+POSTGRESQL_MCP_KEY=your_key_here
+CLAUDE_MCP_KEY=your_key_here
+GMAIL_MCP_KEY=your_key_here
+NOTION_MCP_KEY=your_key_here

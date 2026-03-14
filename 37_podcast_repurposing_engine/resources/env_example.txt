@@ -1,0 +1,9 @@
+# Environment Variables for: Podcast Episode Repurposing Engine
+
+ANTHROPIC_API_KEY=your_key_here
+N8N_WEBHOOK_URL=http://localhost:5678
+WHISPER_API_KEY=your_key_here
+CLAUDE_MCP_KEY=your_key_here
+BUFFER_API_KEY=your_key_here
+MAILCHIMP_MCP_KEY=your_key_here
+WORDPRESS_MCP_KEY=your_key_here

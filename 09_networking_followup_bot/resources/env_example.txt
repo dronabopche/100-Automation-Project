@@ -1,0 +1,8 @@
+# Environment Variables for: Conference / Networking Follow-Up Bot
+
+ANTHROPIC_API_KEY=your_key_here
+N8N_WEBHOOK_URL=http://localhost:5678
+CLAUDE_MCP_KEY=your_key_here
+GMAIL_MCP_KEY=your_key_here
+OCR_API_KEY=your_key_here
+GOOGLE_SHEETS_MCP_KEY=your_key_here

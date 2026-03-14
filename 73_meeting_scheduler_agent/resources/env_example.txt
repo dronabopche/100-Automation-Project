@@ -1,0 +1,8 @@
+# Environment Variables for: Autonomous Meeting Scheduler Agent
+
+ANTHROPIC_API_KEY=your_key_here
+N8N_WEBHOOK_URL=http://localhost:5678
+GMAIL_MCP_KEY=your_key_here
+GOOGLE_CALENDAR_MCP_KEY=your_key_here
+CLAUDE_MCP_KEY=your_key_here
+SLACK_MCP_KEY=your_key_here

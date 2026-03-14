@@ -1,0 +1,9 @@
+# Environment Variables for: Inbound Lead Qualification Pipeline
+
+ANTHROPIC_API_KEY=your_key_here
+N8N_WEBHOOK_URL=http://localhost:5678
+CLAUDE_MCP_KEY=your_key_here
+HUBSPOT_MCP_KEY=your_key_here
+SLACK_MCP_KEY=your_key_here
+CLEARBIT_API_KEY=your_key_here
+CALENDLY_API_KEY=your_key_here

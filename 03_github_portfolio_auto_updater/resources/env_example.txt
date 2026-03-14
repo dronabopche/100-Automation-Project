@@ -1,0 +1,8 @@
+# Environment Variables for: GitHub Portfolio Auto-Updater
+
+ANTHROPIC_API_KEY=your_key_here
+N8N_WEBHOOK_URL=http://localhost:5678
+GITHUB_MCP_KEY=your_key_here
+CLAUDE_MCP_KEY=your_key_here
+TWITTER_API_KEY=your_key_here
+LINKEDIN_API_KEY=your_key_here

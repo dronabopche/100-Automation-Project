@@ -1,0 +1,9 @@
+# Environment Variables for: SaaS User Onboarding Automation
+
+ANTHROPIC_API_KEY=your_key_here
+N8N_WEBHOOK_URL=http://localhost:5678
+STRIPE_MCP_KEY=your_key_here
+CLAUDE_MCP_KEY=your_key_here
+INTERCOM_API_KEY=your_key_here
+MAILCHIMP_MCP_KEY=your_key_here
+MIXPANEL_API_KEY=your_key_here

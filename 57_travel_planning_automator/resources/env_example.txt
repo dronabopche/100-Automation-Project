@@ -1,0 +1,8 @@
+# Environment Variables for: AI Travel Research & Booking Prep Bot
+
+ANTHROPIC_API_KEY=your_key_here
+N8N_WEBHOOK_URL=http://localhost:5678
+SKYSCANNER_API_KEY=your_key_here
+CLAUDE_MCP_KEY=your_key_here
+NOTION_MCP_KEY=your_key_here
+OPENWEATHER_API_KEY=your_key_here

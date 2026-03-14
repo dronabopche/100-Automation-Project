@@ -1,0 +1,9 @@
+# Environment Variables for: Brand Mention Monitor & Responder
+
+ANTHROPIC_API_KEY=your_key_here
+N8N_WEBHOOK_URL=http://localhost:5678
+TWITTER_API_KEY=your_key_here
+REDDIT_API_KEY=your_key_here
+CLAUDE_MCP_KEY=your_key_here
+SLACK_MCP_KEY=your_key_here
+AIRTABLE_MCP_KEY=your_key_here

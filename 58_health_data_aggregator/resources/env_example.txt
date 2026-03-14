@@ -1,0 +1,9 @@
+# Environment Variables for: Personal Health Dashboard Automation
+
+ANTHROPIC_API_KEY=your_key_here
+N8N_WEBHOOK_URL=http://localhost:5678
+APPLE_HEALTH_API_KEY=your_key_here
+OURA_API_KEY=your_key_here
+CLAUDE_MCP_KEY=your_key_here
+GOOGLE_SHEETS_MCP_KEY=your_key_here
+NOTION_MCP_KEY=your_key_here

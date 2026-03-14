@@ -1,0 +1,8 @@
+# Environment Variables for: Automated Weekly Business Report
+
+ANTHROPIC_API_KEY=your_key_here
+N8N_WEBHOOK_URL=http://localhost:5678
+GOOGLE_ANALYTICS_MCP_KEY=your_key_here
+STRIPE_MCP_KEY=your_key_here
+CLAUDE_MCP_KEY=your_key_here
+GMAIL_MCP_KEY=your_key_here

@@ -1,0 +1,8 @@
+# Environment Variables for: Legal Document Review Agent
+
+ANTHROPIC_API_KEY=your_key_here
+N8N_WEBHOOK_URL=http://localhost:5678
+CLAUDE_MCP_KEY=your_key_here
+NOTION_MCP_KEY=your_key_here
+GOOGLE_DRIVE_MCP_KEY=your_key_here
+SLACK_MCP_KEY=your_key_here

@@ -1,0 +1,7 @@
+# Environment Variables for: Habit Tracker with AI Accountability Coach
+
+ANTHROPIC_API_KEY=your_key_here
+N8N_WEBHOOK_URL=http://localhost:5678
+AIRTABLE_MCP_KEY=your_key_here
+CLAUDE_MCP_KEY=your_key_here
+SLACK_MCP_KEY=your_key_here

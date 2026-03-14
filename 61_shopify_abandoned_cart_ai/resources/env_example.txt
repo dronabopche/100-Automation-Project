@@ -1,0 +1,8 @@
+# Environment Variables for: AI Abandoned Cart Recovery Sequence
+
+ANTHROPIC_API_KEY=your_key_here
+N8N_WEBHOOK_URL=http://localhost:5678
+SHOPIFY_MCP_KEY=your_key_here
+CLAUDE_MCP_KEY=your_key_here
+KLAVIYO_API_KEY=your_key_here
+AIRTABLE_MCP_KEY=your_key_here
