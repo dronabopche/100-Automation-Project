@@ -1,5 +1,8 @@
 # 🤖 100 Automation Projects
-### MCP + n8n + AI Agents — Built to Get You Hired
+
+<p align="center">
+    <img src="01_linkedin_job_scraper_auto_apply/resources/100-Automation-Book.PNG">
+</p>
 
 > Every project here is **real, deployable, and portfolio-ready**. Each one solves a business problem companies pay for.
 
@@ -162,28 +165,6 @@ XX_project_name/
 | 99 | Autonomous Social Media Manager | n8n, Claude MCP, DALL-E API, Buffer API | Advanced |
 | 100 | Build Your Own MCP Server | MCP SDK, Claude Desktop, FastAPI, Docker | Expert |
 
----
-
-## 🚀 Getting Started
-
-```bash
-# 1. Install n8n locally
-npm install -g n8n
-n8n start
-
-# 2. Install Python dependencies
-pip install anthropic python-dotenv requests jupyter
-
-# 3. Set up environment variables
-cp resources/env_example.txt .env
-# Fill in your API keys
-
-# 4. Open a notebook
-jupyter notebook
-
-# 5. Import workflow.json into n8n
-# n8n UI → Import workflow → select resources/workflow.json
-```
 
 ## 🔑 Key Technologies
 
