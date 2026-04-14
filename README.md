@@ -1,4 +1,4 @@
-# 🤖 100 Automation Projects
+# 100 Automation Projects
 
 <p align="center">
     <img src="01_linkedin_job_scraper_auto_apply/resources/100-Automation-Book.PNG">
